@@ -22,7 +22,7 @@ const projects = [
     description: "Portafolio web con mi información , mis habilidades técnicas y blandas, proyectos desarrollados y enlaces de contacto.",
     tech: ["Node.js", "React", "HTML","Tailwind","CSS"],
     image: "/images/portafolioFo.png",
-    link: "https://github.com/xMANUX21/Mi-portafolio-",
+    link: "https://github.com/xMANUX21/Mi-portafolio.git",
   },
   // aqui se agregan mas
 ];
