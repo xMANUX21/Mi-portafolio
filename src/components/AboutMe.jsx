@@ -81,7 +81,7 @@ export default function AboutMe() {
         </div>
           <div className="mt-4">
         <a
-          href="https://www.canva.com/design/DAGKg44empA/C9R0t3jE1cOHg3kC7TN3cw/view?utm_content=DAGKg44empA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc07e9699bb" // URL CV
+          href="https://drive.google.com/file/d/1GYgQ_yo0EJHXO14aQ83HHYI_uCjs8DBp/view?usp=drive_link" // URL CV
           target="_blank"
            rel="noopener noreferrer"
            className="inline-block px-4 py-2 text-sm font-medium border border-cyber-pink text-cyber-pink hover:bg-cyber-pink hover:text-black rounded-full transition"
